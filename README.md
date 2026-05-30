@@ -1,8 +1,8 @@
-# QSVM vs SVM — Protocolo Reproducible para Comparación de Algoritmos de Aprendizaje Cuántico
+# QSVM vs SVM — Sistema Reproducible para Comparación de Algoritmos de Aprendizaje Cuántico
 
 ## 📋 Descripción General
 
-Este notebook implementa un **protocolo robusto y reproducible** para comparar **QSVM (Support Vector Machine Cuántico)** versus **SVM clásico (Support Vector Machine)** usando validación cruzada estratificada con múltiples repeticiones, búsqueda de hiperparámetros y pruebas estadísticas rigurosas.
+Este notebook implementa un **Sistema reproducible** para comparar **QSVM (Support Vector Machine Cuántico)** versus **SVM clásico (Support Vector Machine)** usando validación cruzada estratificada con múltiples repeticiones, búsqueda de hiperparámetros y pruebas estadísticas rigurosas.
 
 ### Características principales:
 - ✅ **Validación cruzada repetida** (k-fold estratificado con múltiples semillas)
